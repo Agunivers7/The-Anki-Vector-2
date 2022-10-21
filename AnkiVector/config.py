@@ -10,7 +10,7 @@ class Config(object):
 
     API_ID = 10651048  # integer value, dont use ""
     API_HASH = "37775aca7d11f450ecde375baac17fe7"
-    TOKEN = "5546235142:AAGUa1r-5_N1joxXLWDvcjf8uUJjs2SgShA"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "5743646572:AAEn0QWcJtEMN3EbRRj_rNoshdhRZfqrKb8"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 1323557247  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "@Spoidermon12"
     SUPPORT_CHAT = "Agunivers_backup"  # Your own group for support, do not add the @
